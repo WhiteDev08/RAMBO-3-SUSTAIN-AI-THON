@@ -9,12 +9,11 @@ We aim to showcase the power of AI in transforming mental health care, creating 
 ---
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js ⚛️
-- **Backend:** Flask (Python) 🐍
+- **Frontend:** React.js ⚛️/ Html / CSS
+- **Backend:** Flask (Python) / Node.js /Fast API 🐍
 - **AI/ML Models:** TensorFlow/Keras, scikit-learn 🤖
-- **Database:** Firebase, SQL 🗄️
+- **Database:** Firebase, MongoDB 🗄️
 - **Visualization:** Plotly, Matplotlib 📊
-- **Hosting:** Render, Heroku ☁️
 
 ---
 
