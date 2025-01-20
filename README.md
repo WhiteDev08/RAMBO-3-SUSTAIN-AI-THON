@@ -74,5 +74,5 @@ We are not just building tools; we are creating an ecosystem that reimagines men
 
 ## Workflow Diagram
 
-![WhatsApp Image 2025-01-20 at 21 46 58_51b9a60d](https://github.com/user-attachments/assets/f12a034f-ef20-45b6-b360-3ccf07931add)
 
+![WhatsApp Image 2025-01-20 at 21 49 15_9302254d](https://github.com/user-attachments/assets/2617c701-fb02-4206-955e-6fb1666acc5d)
