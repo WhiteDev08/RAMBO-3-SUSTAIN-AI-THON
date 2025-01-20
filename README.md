@@ -1,6 +1,7 @@
 # 🚀 Elevate AI - Your Mental Health Companion
 
 Welcome to **Elevate AI**, an innovative mental health platform designed to provide personalized mental wellness support using advanced AI-driven solutions. This project aims to bridge the gap in mental health care accessibility, providing users with tools to monitor, assess, and improve their mental well-being. 🌟
+
 ---
 ## 🏆 Hackathon Goals
 We aim to showcase the power of AI in transforming mental health care, creating a scalable and impactful solution that reaches users globally. Let’s make mental wellness a priority for all! 🌈
